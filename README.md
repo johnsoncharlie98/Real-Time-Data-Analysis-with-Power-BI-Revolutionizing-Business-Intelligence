@@ -59,7 +59,7 @@
 
 <h2>Certification Spotlight: How Microsoft&rsquo;s Power BI Certification Can Skyrocket Your Real-Time Data Skills</h2>
 
-<p>The <a href="https://www.tickettailor.com/events/study4exam/1336118">Microsoft Power BI Data Analyst Associate Certification</a> is a valuable asset for anyone looking to enhance their expertise in real-time data analysis. This certification covers essential skills such as data preparation, modeling, and visualization, with a strong emphasis on practical application.</p>
+<p>The <a href="https://form.jotform.com/242112038508043">Microsoft Power BI Data Analyst Associate Certification</a> is a valuable asset for anyone looking to enhance their expertise in real-time data analysis. This certification covers essential skills such as data preparation, modeling, and visualization, with a strong emphasis on practical application.</p>
 
 <p>Personally, achieving this certification has significantly deepened my understanding of Power BI&#39;s capabilities. It provided me with the confidence to tackle more complex data challenges and the knowledge to implement best practices effectively. For anyone serious about mastering Power BI, pursuing this certification is a step in the right direction.</p>
 
